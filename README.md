@@ -1,4 +1,6 @@
-**💬 Quick Chat Room**
+---
+
+# 💬 Quick Chat Room
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -9,10 +11,12 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-pink)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/chat-room?style=social)
 
-A simple yet powerful real-time chat room application built with Spring Boot WebSockets on the backend and HTML, CSS, and JavaScript on the frontend.
+A simple yet powerful **real-time chat room application** built with **Spring Boot WebSockets** on the backend and **HTML, CSS, and JavaScript** on the frontend.
 This project demonstrates how to build a lightweight real-time communication platform without external chat services.
 
-🚀 **Features**
+---
+
+## 🚀 Features
 
 * 🔗 **WebSocket-powered** real-time messaging
 * 👥 **Multiple users** can join and chat simultaneously
@@ -20,7 +24,9 @@ This project demonstrates how to build a lightweight real-time communication pla
 * ⚡ **Lightweight backend** with Spring Boot
 * 📡 Instant message broadcast to all connected clients
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -33,7 +39,9 @@ This project demonstrates how to build a lightweight real-time communication pla
 * CSS
 * JavaScript
 
-** 📂 Project Structure**
+---
+
+## 📂 Project Structure
 
 ```bash
 chat-room/
@@ -95,19 +103,8 @@ Contributions are always welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – free to use, modify, and distribute.
-
----
-
 ## ⭐ Show Your Support
 
 If you found this project useful, consider giving it a **star** ⭐ on GitHub!
 
 ---
-
-👉 Just replace `your-username` in the repo URL and stars badge with your actual GitHub username.
-
-Do you want me to also add a **demo GIF/video section** (like showing messages being sent live) so it instantly impresses recruiters when they check your repo?
-
