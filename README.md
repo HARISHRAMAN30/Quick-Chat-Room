@@ -61,8 +61,8 @@ chat-room/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chat-room.git
-cd chat-room
+git clone https://github.com/HARISHRAMAN30/Quick-Chat-Room.git
+cd Quick-Chat-Room
 ```
 
 ### 2️⃣ Run the Backend (Spring Boot)
