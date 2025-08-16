@@ -2,11 +2,16 @@
 
 # 💬 Quick Chat Room
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
-![WebSocket](https://img.shields.io/badge/WebSocket-Enabled-yellowgreen)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blueviolet)
+![Build]
+(https://img.shields.io/badge/build-passing-brightgreen)
+![Java]
+(https://img.shields.io/badge/Java-21-orange)
+![Spring Boot]
+(https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![WebSocket]
+(https://img.shields.io/badge/WebSocket-Enabled-yellowgreen)
+![Frontend]
+(https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blueviolet)
 
 A simple yet powerful **real-time chat room application** built with **Spring Boot WebSockets** on the backend and **HTML, CSS, and JavaScript** on the frontend.
 This project demonstrates how to build a lightweight real-time communication platform without external chat services.
